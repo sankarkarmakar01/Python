@@ -1,0 +1,55 @@
+text = "hello world"
+text2 = "HELLO"
+text3 = "123"
+multiline = "Hello\nWorld"
+tab_text = "Hello\tWorld"
+items = ["Python", "Java", "C++"]
+
+print("capitalize():", text.capitalize())
+print("casefold():", text.casefold())
+print("center():", text.center(20, "-"))
+print("count():", text.count("l"))
+print("encode():", text.encode())
+print("endswith():", text.endswith("world"))
+print("expandtabs():", tab_text.expandtabs(4))
+print("find():", text.find("world"))
+print("format():", "My name is {}".format("Alex"))
+print("format_map():", "{name} is {age}".format_map({"name": "Alex", "age": 25}))
+print("index():", text.index("world"))
+print("isalnum():", "Hello123".isalnum())
+print("isalpha():", "Hello".isalpha())
+print("isascii():", text.isascii())
+print("isdecimal():", "123".isdecimal())
+print("isdigit():", text3.isdigit())
+print("isidentifier():", "variable_name".isidentifier())
+print("islower():", text.islower())
+print("isnumeric():", "123".isnumeric())
+print("isprintable():", text.isprintable())
+print("isspace():", "   ".isspace())
+print("istitle():", "Hello World".istitle())
+print("isupper():", text2.isupper())
+print("join():", " | ".join(items))
+print("ljust():", text.ljust(20, "*"))
+print("lower():", text2.lower())
+print("lstrip():", "   hello".lstrip())
+
+# maketrans & translate
+table = str.maketrans("aeiou", "12345")
+print("maketrans() + translate():", text.translate(table))
+
+print("partition():", text.partition(" "))
+print("replace():", text.replace("world", "Python"))
+print("rfind():", text.rfind("l"))
+print("rindex():", text.rindex("l"))
+print("rjust():", text.rjust(20, "*"))
+print("rpartition():", text.rpartition(" "))
+print("rsplit():", "a,b,c,d".rsplit(",", 2))
+print("rstrip():", "hello   ".rstrip())
+print("split():", text.split())
+print("splitlines():", multiline.splitlines())
+print("startswith():", text.startswith("hello"))
+print("strip():", "  hello  ".strip())
+print("swapcase():", "Hello World".swapcase())
+print("title():", text.title())
+print("upper():", text.upper())
+print("zfill():", "42".zfill(5))

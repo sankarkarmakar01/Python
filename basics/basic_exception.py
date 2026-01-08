@@ -1,0 +1,23 @@
+a = 10
+b = 0
+
+try:
+    res = a / b
+    print(res)
+except ZeroDivisionError:
+    print("Division by zero")
+
+# with finally
+
+try:
+    a = int(input("Enter first number: "))
+    b = int(input("Enter second number: "))
+    result = a / b
+except ZeroDivisionError:
+    print("Cannot divide by zero")
+except ValueError:
+    print("Please enter numbers only")
+else:
+    print("Result:", result)
+finally:
+    print("Program finished")
