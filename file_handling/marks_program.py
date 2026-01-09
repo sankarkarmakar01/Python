@@ -11,4 +11,4 @@ with open("marks.txt", "r") as f:
         print(f"Marks of student {i} in Maths is: {m1}")
         print(f"Marks of student {i} in Maths is: {m2}")
         print(f"Marks of student {i} in Maths is: {m3}")
-        print(line)
+        print(line) 
