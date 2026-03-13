@@ -11,8 +11,8 @@ Functions and Modules - Done
 Project: Create a simple calculator -Done
 
 Week 3: Data Structures
-Lists
-Tuples
+Lists - Done
+Tuples - Done
 Dictionaries
 Sets
 List Comprehensions
