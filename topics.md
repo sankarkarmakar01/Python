@@ -7,8 +7,8 @@ Python Syntax, Variables, and Data Types - Done
 Basic Operations and Expressions - Done
 Conditional Statements (if, else, elif) - Done
 Loops (for, while) - Done
-Functions and Modules
-Project: Create a simple calculator
+Functions and Modules - Done
+Project: Create a simple calculator -Done
 
 Week 3: Data Structures
 Lists
