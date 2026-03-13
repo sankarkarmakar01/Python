@@ -5,8 +5,8 @@ Introduction to Python - Done
 Installing Python and Setting Up the Environment - Done
 Python Syntax, Variables, and Data Types - Done
 Basic Operations and Expressions - Done
-Conditional Statements (if, else, elif)
-Loops (for, while)
+Conditional Statements (if, else, elif) - Done
+Loops (for, while) - Done
 Functions and Modules
 Project: Create a simple calculator
 
