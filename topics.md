@@ -15,7 +15,7 @@ Lists - Done
 Tuples - Done
 Dictionaries - Done
 Sets - Done
-List Comprehensions
+List Comprehensions - Done
 Dictionary Comprehensions
 Project: Build a contact book
 
