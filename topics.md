@@ -17,7 +17,7 @@ Dictionaries - Done
 Sets - Done
 List Comprehensions - Done
 Dictionary Comprehensions - Done
-Project: Build a contact book
+Project: Build a contact book - Done
 
 Phase 2: Intermediate Topics
 
@@ -30,8 +30,8 @@ Project: Develop a text analyzer
 Week 5–6: Advanced Functions and Modules
 Lambda Functions - Done
 Map, Filter, Reduce
-Decorators
-Generators
+Decorators - Done
+Generators - Done
 Project: Create a URL shortener
 
 Week 7: Error Handling and Exceptions
