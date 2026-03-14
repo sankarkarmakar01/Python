@@ -16,7 +16,7 @@ Tuples - Done
 Dictionaries - Done
 Sets - Done
 List Comprehensions - Done
-Dictionary Comprehensions
+Dictionary Comprehensions - Done
 Project: Build a contact book
 
 Phase 2: Intermediate Topics
