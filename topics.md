@@ -21,14 +21,14 @@ Project: Build a contact book
 
 Phase 2: Intermediate Topics
 
-Week 4: Strings and File Handling
-String Manipulation
+Week 4: Strings - Done
+String Manipulation - Done
 Regular Expressions
-File Handling (Reading/Writing Files)
+File Handling (Reading/Writing Files) - Done
 Project: Develop a text analyzer
 
 Week 5–6: Advanced Functions and Modules
-Lambda Functions
+Lambda Functions - Done
 Map, Filter, Reduce
 Decorators
 Generators
@@ -40,10 +40,10 @@ Custom Exceptions
 Project: Develop a simple command-line tool with error handling
 
 Week 8: Object-Oriented Programming (OOP)
-Classes and Objects
-Inheritance
-Polymorphism
-Encapsulation
+Classes and Objects - Done
+Inheritance - Done
+Polymorphism - Done
+Encapsulation - Done
 Project: Build a bank account management system
 
 Phase 3: Advanced Python
