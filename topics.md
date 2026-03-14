@@ -13,8 +13,8 @@ Project: Create a simple calculator -Done
 Week 3: Data Structures
 Lists - Done
 Tuples - Done
-Dictionaries
-Sets
+Dictionaries - Done
+Sets - Done
 List Comprehensions
 Dictionary Comprehensions
 Project: Build a contact book
