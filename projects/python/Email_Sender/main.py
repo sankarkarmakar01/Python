@@ -1,0 +1,2 @@
+from time import process_time_ns
+process_time_ns
